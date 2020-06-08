@@ -16,7 +16,7 @@
 Подключение БД смотрим [в документации](https://laravel.com/docs/7.x/installation).
 
     # клонируем исходный код проекта
-    git clone git@github.com:MrA1ex/-6-.git
+    git clone git@github.com:MrA1ex/EgeTasksSelection.git
     cd it-univer-projector
 
     # устанавливаем зависимости
